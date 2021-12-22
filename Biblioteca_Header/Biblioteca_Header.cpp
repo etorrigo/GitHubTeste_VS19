@@ -17,8 +17,8 @@ int main()
 	cout << "\nDivi: " << divisao(numero1, numero2);
 	cout << "\nMult: " << multiplicacao(numero1, numero2);
 	cout << "\nPote: " << potencia(numero1, numero2);
-	//cout << "\nRaiz1: " << raizquadrada(numero1);
-	//cout << "\nRaiz2: " << raizquadrada(numero2);
+	cout << "\nRaiz1: " << raizquadrada(numero1);
+	cout << "\nRaiz2: " << raizquadrada(numero2);
 
 			return 0;
 
